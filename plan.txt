@@ -1,4 +1,4 @@
-# Xenara OS
+# Xenara OS Plan
 
 ## Overview
 Xenara OS is a custom Linux-based OS designed to be lightweight, flexible, and tailored to specific hardware. The OS will use Arch Linux as the base and replace systemd with OpenRC. It will also use `doas` instead of `sudo` and include an AI assistant integrated from kernel level to user level.
